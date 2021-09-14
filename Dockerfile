@@ -1,4 +1,4 @@
-docker run -dit \
+run -dit \
   --name QL \
   --hostname QL \
   --restart always \
